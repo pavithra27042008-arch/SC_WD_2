@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#1f1f2e;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    color:white;
+}
+
+.container{
+    text-align:center;
+    background:#2f2f44;
+    padding:30px;
+    border-radius:15px;
+    width:350px;
+}
+
+#display{
+    font-size:40px;
+    margin:20px;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+button:hover{
+    opacity:0.8;
+}
+
+#laps{
+    margin-top:20px;
+    text-align:left;
+}
