@@ -2,7 +2,7 @@ SkillCraft Technology Web Development Internship
 
 Task-2
 
-⏱️ Stopwatch Web Application
+📌⏱️ Stopwatch Web Application
 
 A simple and interactive Stopwatch Web Application built using HTML, CSS, and JavaScript. This project allows users to accurately measure time, pause and resume the stopwatch, reset it, and record lap times through an intuitive and user-friendly interface.
 
